@@ -49,9 +49,9 @@ I enjoy diving deep into complex topics and am especially passionate about bridg
 
 <div align="center">
 
-![Bao Thi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangtrong-baothi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Bao Thi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangtbthi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangtrong-baothi&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangtbthi&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
