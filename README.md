@@ -51,7 +51,7 @@ I enjoy diving deep into complex topics and am especially passionate about bridg
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dangtbthi&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangtbthi&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Top Languages](https://ghchart.ssh.surf/dangtbthi)
 
 </div>
 
